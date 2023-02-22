@@ -1,6 +1,6 @@
 # This is Shell-Project
 
-- [] Create me !
+- [X] Create me !
 
 - [] More of me !
 
