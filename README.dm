@@ -2,9 +2,9 @@
 
 - [X] Create me !
 
-- [x] More of me !
+- [X] More of me !
 
-- [] To Do !
+- [X] To Do !
 
 - [] Not Here !
 
