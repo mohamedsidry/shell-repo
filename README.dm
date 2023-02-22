@@ -6,7 +6,7 @@
 
 - [X] To Do !
 
-- [] Not Here !
+- [X] Not Here !
 
 - [] Not Anymore !
 
