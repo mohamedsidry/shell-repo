@@ -2,7 +2,7 @@
 
 - [X] Create me !
 
-- [] More of me !
+- [x] More of me !
 
 - [] To Do !
 
