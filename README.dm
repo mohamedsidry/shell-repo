@@ -8,7 +8,7 @@
 
 - [X] Not Here !
 
-- [] Not Anymore !
+- [X] Not Anymore !
 
 - [] Organization Key !
 
